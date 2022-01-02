@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YeonIsFree
-- 🌱 I’m currently learning HTML, CSS, Python
+- 🌱 I’m currently learning javascript
 
 <!---
 YeonIsFree/YeonIsFree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
