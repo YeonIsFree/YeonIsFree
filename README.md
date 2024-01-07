@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yeon&fontSize=40)
 
 
-## Yeon's Notion
+## Blog
 - [<img src="https://img.shields.io/badge/-Notion-000000?style=badge&logo=Notion&logoColor=white"/>](https://yeonisfree.notion.site/Yeon-91f03c4f126943b69578ad9b1a7eb6bc?pvs=4)
 
 ## Skills
